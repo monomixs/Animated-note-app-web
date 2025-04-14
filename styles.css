@@ -1,3 +1,12 @@
+*:focus {
+  outline: none;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+
 /* Base and Reset */
 :root {
     /* Light Theme (Default) */
